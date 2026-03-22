@@ -29,8 +29,8 @@ I am a passionate **Hydro-Informatics** enthusiast, currently pursuing a dual ma
 - **Automated Water Quality System:** IoT-focused project detecting biological and chemical contaminants in water storage tanks.
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Molla%20Derbew&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Molla%20Derbew&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=derbewmolla14&theme=radical&hide_border=true" />
 </p>
 ### 📫 Connect with me:
 - 📧 **Email:** derbewmolla14@gmail.com(mailto:derbewmolla14@gmail.com)
