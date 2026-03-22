@@ -25,7 +25,7 @@ I am a passionate **Hydro-Informatics** enthusiast, currently pursuing a dual ma
 
 ### 🚀 Featured Projects
 - **[HydroOS](https://github.com/Molla-Derbew/HydroOS):** An all-in-one platform for irrigation alerts, water quality data, and resource management.
-- **[Smart Water Monitor](https://github.com/Molla-Derbew/Smart-Water-Monitor):** Full-stack real-time water level tracking app deployed on Render.
+- **[Smart Water Monitor](https://smart-water-monitor-7kui.onrender.com):** A full-stack real-time water level tracking application. ([View Code on GitHub](https://github.com/Molla-Derbew/Smart-Water-Monitor))** Full-stack real-time water level tracking app deployed on Render.
 - **Automated Water Quality System:** IoT-focused project detecting biological and chemical contaminants in water storage tanks.
 ### 📊 GitHub Activity
 <p align="center">
