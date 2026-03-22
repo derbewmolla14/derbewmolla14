@@ -27,11 +27,10 @@ I am a passionate **Hydro-Informatics** enthusiast, currently pursuing a dual ma
 - **[HydroOS](https://github.com/Molla-Derbew/HydroOS):** An all-in-one platform for irrigation alerts, water quality data, and resource management.
 - **[Smart Water Monitor](https://github.com/Molla-Derbew/Smart-Water-Monitor):** Full-stack real-time water level tracking app deployed on Render.
 - **Automated Water Quality System:** IoT-focused project detecting biological and chemical contaminants in water storage tanks.
-
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Molla-Derbew&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Molla-Derbew&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Molla%20Derbew&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Molla%20Derbew&theme=radical&hide_border=true" />
 </p>
 ### 📫 Connect with me:
 - 📧 **Email:** derbewmolla14@gmail.com(mailto:derbewmolla14@gmail.com)
