@@ -94,7 +94,7 @@ https://github.com/Molla-Derbew/Smart-Water-Monitor
   ## 🌐 Portfolio & Personal Website
 
 <p align="left">
-  <a href="https://hydro-os-project.vercel.app/" target="_blank">
+  <a href="https://portfolio-ivory-two-32.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
@@ -104,7 +104,7 @@ https://github.com/Molla-Derbew/Smart-Water-Monitor
 </p>
 
 🔗 **Portfolio Website:**  
-https://hydro-os-project.vercel.app/
+https://portfolio-ivory-two-32.vercel.app/
 
 🔗 **Ahadu Tech Academy:**  
 https://ahadu-tech-academys.vercel.app/
