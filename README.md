@@ -91,7 +91,28 @@ https://github.com/Molla-Derbew/Smart-Water-Monitor
 🔹 Detects chemical & biological contamination  
 🔹 Tank monitoring automation  
 🔹 Sensor-based smart alerts  
+  ## 🌐 Portfolio & Personal Website
 
+<p align="left">
+  <a href="https://hydro-os-project.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://ahadu-tech-academys.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ahadu%20Tech%20Academy-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+🔗 **Portfolio Website:**  
+https://hydro-os-project.vercel.app/
+
+🔗 **Ahadu Tech Academy:**  
+https://ahadu-tech-academys.vercel.app/
+
+  <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 📜 Certifications
@@ -130,28 +151,6 @@ Issued by **CAWST (Canada)**
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  ## 🌐 Portfolio & Personal Website
-
-<p align="left">
-  <a href="https://hydro-os-project.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://ahadu-tech-academys.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Ahadu%20Tech%20Academy-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-🔗 **Portfolio Website:**  
-https://hydro-os-project.vercel.app/
-
-🔗 **Ahadu Tech Academy:**  
-https://ahadu-tech-academys.vercel.app/
-
-  <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 📍 **Location:** Kombolcha, Amhara, Ethiopia
 
