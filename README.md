@@ -18,10 +18,10 @@
 
 I am a dedicated student and developer from Ethiopia, pursuing a dual major in:
 
-- 🎓 **Water Resources & Irrigation Engineering** (Regular)
-- 💻 **Software Engineering** (Extension)
+🎓 Water Resources & Irrigation Engineering** (Regular)
+💻 Software Engineering** (Extension)
 
-at **Wollo University**.
+at Wollo University.
 
 My mission is to integrate **water engineering**, **IoT**, and **software systems** to create intelligent solutions for global water security challenges.
 
