@@ -125,7 +125,7 @@ Issued by **CAWST (Canada)**
 ## 📊 GitHub Statistics
 
 <p align="center">
- <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=derbewmolla14&theme=radical&hide_border=true" />
 </p>
 
