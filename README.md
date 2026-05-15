@@ -1,6 +1,6 @@
 # Hi there! I'm Molla Derbew 👋
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/derbewmolla14" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/derbewmolla14" width="100" style="border-radius:50%;" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Molla-Derbew&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views" />
