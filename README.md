@@ -269,8 +269,6 @@ Building digital learning experiences and exploring technology-driven education 
 
 ---
 
-## 📅 GitHub Daily Contribution Calendar
-
 **My development consistency and daily contribution history.**
 
 <p align="center">
@@ -280,27 +278,35 @@ Building digital learning experiences and exploring technology-driven education 
 ---
 ## 📅 Contribution History by Year
 
+## 📅 Contribution Calendar by Year
+
 <details open>
-  <summary><b>📆 2026 Contribution Activity (Current Year)</b></summary>
+  <summary><b>🟦 2026 Contributions (Current Year)</b></summary>
   <br>
 
-  [![2026 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2026-01-01&to=2026-12-31)](https://github.com/derbewmolla14)
+  <p align="center">
+    <img src="https://ghchart.rshah.org/00C9A7/derbewmolla14?y=2026" width="100%" alt="2026 Contribution Graph" />
+  </p>
 
 </details>
 
 <details>
-  <summary><b>📆 2025 Contribution Activity (Last Year — Click to View)</b></summary>
+  <summary><b>🟩 2025 Contributions (Last Year — Click to View)</b></summary>
   <br>
 
-  [![2025 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2025-01-01&to=2025-12-31)](https://github.com/derbewmolla14)
+  <p align="center">
+    <img src="https://ghchart.rshah.org/00C9A7/derbewmolla14?y=2025" width="100%" alt="2025 Contribution Graph" />
+  </p>
 
 </details>
 
 <details>
-  <summary><b>📆 2024 Contribution Activity (2 Years Ago — Click to View)</b></summary>
+  <summary><b>🟩 2024 Contributions (2 Years Ago — Click to View)</b></summary>
   <br>
 
-  [![2024 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2024-01-01&to=2024-12-31)](https://github.com/derbewmolla14)
+  <p align="center">
+    <img src="https://ghchart.rshah.org/00C9A7/derbewmolla14?y=2024" width="100%" alt="2024 Contribution Graph" />
+  </p>
 
 </details>
 ## 📈 Contribution Activity
@@ -317,39 +323,29 @@ Building digital learning experiences and exploring technology-driven education 
 
 
 ---
-
-
 ## 💻 Programming Language Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="90%"
-    alt="Most Used Programming Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="90%" alt="Most Used Programming Languages" />
 </p>
----
 
+---
 
 ## 📊 Development Activity Graph
 
 <p align="center">
-  <a href="https://github.com/derbewmolla14">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true"
-      width="100%"
-      alt="GitHub Development Activity Graph"
-    />
-  </a>
+  <a href="https://github.com/derbewmolla14">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Development Activity Graph" />
+  </a>
 </p>
+
+---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Trophies" />
 </p>
-
----
 
 ## ⚡ Technology Ecosystem
 
