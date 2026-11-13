@@ -276,22 +276,46 @@ Building digital learning experiences and exploring technology-driven education 
 
 ---
 
-## 📈 Contribution Activity & Development Trends
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&bg_color=1a1b27&color=70a5fd&line=00c9a7&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity" />
+  <a href="https://github.com/derbewmolla14">
+    <img src="https://img.shields.io/badge/GitHub-View_My_Contribution_History-00C9A7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  Explore my daily contributions, commits, pull requests, and development activity directly on my GitHub profile.
+</p>
+
+
 ---
+
 
 ## 💻 Programming Language Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derbewmolla14&theme=tokyonight&utcOffset=3" width="48%" alt="Commit Activity by Time" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="90%"
+    alt="Most Used Programming Languages"
+  />
 </p>
-
 ---
+
+
+## 📊 Development Activity Graph
+
+<p align="center">
+  <a href="https://github.com/derbewmolla14">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="GitHub Development Activity Graph"
+    />
+  </a>
+</p>
 
 ## 🏆 GitHub Achievements
 
