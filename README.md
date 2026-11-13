@@ -278,30 +278,31 @@ Building digital learning experiences and exploring technology-driven education 
 </p>
 
 ---
+## 📅 Contribution History by Year
+
 <details open>
   <summary><b>📆 2026 Contribution Activity (Current Year)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2026-01-01&to=2026-12-31" width="100%" alt="2026 Activity" />
-  </p>
+  <br>
+
+  [![2026 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2026-01-01&to=2026-12-31)](https://github.com/derbewmolla14)
+
 </details>
 
 <details>
-  <summary><b>📆 2025 Contribution Activity (Last Year)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2025-01-01&to=2025-12-31" width="100%" alt="2025 Activity" />
-  </p>
+  <summary><b>📆 2025 Contribution Activity (Last Year — Click to View)</b></summary>
+  <br>
+
+  [![2025 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2025-01-01&to=2025-12-31)](https://github.com/derbewmolla14)
+
 </details>
 
 <details>
-  <summary><b>📆 2024 Contribution Activity (2 Years Ago)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2024-01-01&to=2024-12-31" width="100%" alt="2024 Activity" />
-  </p>
-</details>
+  <summary><b>📆 2024 Contribution Activity (2 Years Ago — Click to View)</b></summary>
+  <br>
 
+  [![2024 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2024-01-01&to=2024-12-31)](https://github.com/derbewmolla14)
+
+</details>
 ## 📈 Contribution Activity
 
 <p align="center">
