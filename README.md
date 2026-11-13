@@ -245,29 +245,6 @@ Building digital learning experiences and exploring technology-driven education 
 
 <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-
-<!-- <p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://img.shields.io/badge/Powered%20by-WakaTime-00C9A7?style=for-the-badge&logo=wakatime&logoColor=white" />
-  </a>
-</p> -->
-
-**Coding analytics include:**
-<p align="center">
-  <img
-    src="YOUR_WAKATIME_CHART_URL"
-    width="100%"
-    alt="My WakaTime Coding Activity Graph"
-  />
-</p>
-- ⏰ Daily coding time
-- 📅 Weekly coding hours
-- 💻 Programming languages
-- 📊 Language usage distribution
-- ⚡ Development productivity
-
----
 
 **My development consistency and daily contribution history.**
 
