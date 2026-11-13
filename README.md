@@ -1,185 +1,297 @@
-# Hi there! I'm Molla Derbew 👋
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/derbewmolla14" width="80" style="border-radius:40%;" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Molla-Derbew&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views" />
-</p>
+# 👋 Hi, I'm Molla Derbew
 
-<h3 align="center">
-  Hydro-Informatics Enthusiast | Water Resources & Irrigation Engineer | Software Developer
-</h3>
+### Hydro-Informatics Engineer | Full-Stack Developer | IoT & Embedded Systems Innovator
 
 <p align="center">
-  Passionately building smart technologies for sustainable water management and digital innovation.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Engineering+Intelligence+for+Water+Security;Building+Smart+IoT+Ecosystems;Full-Stack+Software+Development;Technology+for+Real-World+Impact" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=derbewmolla14&label=PROFILE+VIEWS&color=00C9A7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/derbewmolla14?label=FOLLOWERS&style=for-the-badge&color=0A66C2" />
 </p>
 
 ---
 
-## 🌊 About Me
+## 🌍 About Me
 
-I am a dedicated student and developer from Ethiopia, pursuing a dual major in:
+I'm **Molla Derbew**, an engineering student, software developer, and technology enthusiast from **Ethiopia**, passionate about building intelligent systems that connect engineering, software, and the physical world.
 
-    🎓 Water Resources & Irrigation Engineering** (Regular)
-   💻 Software Engineering** (Extension)
+I'm pursuing a dual academic path at **Wollo University (KIOT)**:
 
-at Wollo University.
+- 🎓 **Water Resources & Irrigation Engineering** — Regular
+- 💻 **Software Engineering** — Extension
 
-My mission is to integrate **water engineering**, **IoT**, and **software systems** to create intelligent solutions for global water security challenges.
+My work focuses on the intersection of:
 
-### 🔍 Current Focus
-- 🚀 Building **HydroOS** — a smart ecosystem for irrigation and water resource management.
-- 🌱 Developing **IoT-based monitoring systems** using ESP32, sensors, and cloud platforms.
-- 📡 Exploring **real-time environmental monitoring**, automation, and data visualization.
-- 🤝 Combining engineering knowledge with modern software technologies to solve real-world problems.
+- 🌊 Water Resources Engineering & Hydro-Informatics
+- 💻 Full-Stack Software Engineering
+- 📡 Internet of Things (IoT) & Embedded Systems
+- 🤖 Intelligent Monitoring & Automation
+- 📊 Real-Time Data Processing & Visualization
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming & Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### ⚙️ Embedded Systems & IoT
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
+**My mission:** Transform traditional engineering systems into intelligent, connected, and data-driven solutions through modern software and emerging technologies.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
-### 🌐 HydroOS
-**Integrated Smart Irrigation & Water Resource Platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔹 Irrigation scheduling  
-🔹 Water quality monitoring  
-🔹 Real-time alerts & analytics  
-🔹 Resource management dashboard  
+### 🌊 HydroOS
 
-🔗 **GitHub:**  
-https://github.com/Molla-Derbew/HydroOS
+**Smart Water Management Ecosystem**
 
----
+Developing an integrated platform for intelligent water resource management and smart irrigation.
+
+- Smart irrigation management
+- Real-time water monitoring
+- IoT sensor integration
+- Water quality indicators
+- Analytics and visualization
+- Automated alerts
+
+</td>
+<td width="50%" valign="top">
 
 ### 💧 Smart Water Monitor
-**Real-Time Water Level Monitoring System**
 
-🔹 Full-stack web application  
-🔹 Live sensor data visualization  
-🔹 Cloud deployment using Render  
+**IoT-Based Water Monitoring**
 
-🌍 **Live Demo:**  
-https://smart-water-monitor-7kui.onrender.com
+A connected monitoring system designed to visualize water-level measurements through a web application.
 
-🔗 **GitHub Repository:**  
-https://github.com/Molla-Derbew/Smart-Water-Monitor
+- Sensor-based measurement
+- Real-time data visualization
+- Backend API integration
+- Cloud deployment
+- Water-level monitoring
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧪 Automated Water Quality System
-**IoT-Based Water Safety Monitoring**
 
-🔹 Detects chemical & biological contamination  
-🔹 Tank monitoring automation  
-🔹 Sensor-based smart alerts  
-  ## 🌐 Portfolio & Personal Website
+**Environmental Monitoring & Automation**
+
+Exploring sensor-based approaches to monitoring water quality parameters.
+
+- pH monitoring
+- TDS measurements
+- Turbidity monitoring
+- Sensor integration
+- Monitoring dashboards
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Ahadu Tech Academy
+
+**Digital Learning & Technology**
+
+Building digital learning experiences and exploring technology-driven education solutions.
+
+- Web-based learning platforms
+- Full-stack development
+- Digital education
+- Software innovation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Technical Skills & Technologies
+
+### Programming Languages
 
 <p align="left">
-  <a href="https://portfolio-ivory-two-32.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://ahadu-tech-academys.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Ahadu%20Tech%20Academy-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css" />
 </p>
 
-🔗 **Portfolio Website:**  
-https://portfolio-ivory-two-32.vercel.app/
+### Frontend Engineering
 
-🔗 **Ahadu Tech Academy:**  
-https://ahadu-tech-academys.vercel.app/
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
 
+### Backend & Database Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+### IoT & Embedded Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  <img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+### Development Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
+
+### Engineering & Technology Interests
+
+- Hydro-Informatics
+- Smart Irrigation Systems
+- Water Resources Management
+- IoT-Based Environmental Monitoring
+- System Architecture & API Design
+- Data Analytics & Visualization
+- AI-Assisted Software Development
+
+---
+
+## 🏗️ Featured Projects
+
+### 01. 🌊 HydroOS — Smart Water Management
+
+**An integrated technology ecosystem for water resources and irrigation management.**
+
+| Component | Technology |
+|---|---|
+| Frontend | React, Vite, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Hardware | ESP32 & Sensors |
+| Communication | Real-Time IoT Integration |
+
+**Core capabilities:**
+- Intelligent irrigation management
+- Live water-level monitoring
+- Environmental sensor integration
+- Water resource analytics
+- Centralized management dashboard
+
+🔗 **Repository:** [HydroOS](https://github.com/Molla-Derbew/HydroOS)
+
+---
+
+### 02. 💧 Smart Water Monitor
+
+**A full-stack application for monitoring water levels using sensor-based measurements.**
+
+- Real-time water-level visualization
+- Backend API communication
+- Web-based monitoring dashboard
+- Cloud deployment
+
+🌐 **Live Application:** [Open Smart Water Monitor](https://smart-water-monitor-7kui.onrender.com)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/Molla-Derbew/Smart-Water-Monitor)
+
+---
+
+### 03. 🧪 Automated Water Quality Monitoring
+
+**An IoT-focused project exploring connected water quality monitoring.**
+
+- pH sensor integration
+- TDS monitoring
+- Turbidity measurement
+- Automated monitoring and alerts
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=derbewmolla14&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derbewmolla14&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+</p>
+
+### 📜 Professional Certification
+
+**Household Water Treatment and Safe Storage (HWTS)**
+
+- Certified by CAWST, Canada
+- Focus: Household water treatment and safe water storage
+
+---
+
+## 🌐 Portfolio & Professional Presence
+
+<p align="center">
+  <a href="https://portfolio-ivory-two-32.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://ahadu-tech-academys.vercel.app/">
+    <img src="https://img.shields.io/badge/Ahadu_Tech_Academy-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
-
-## 📜 Certifications
-
-✅ **Household Water Treatment and Safe Storage (HWTS)**  
-Issued by **CAWST (Canada)**
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 My Engineering Philosophy
+
+> "The future of engineering belongs to those who can connect physical systems, intelligent software, and meaningful innovation."
+
+I believe technology should go beyond writing code. It should solve real problems, improve infrastructure, empower communities, and create sustainable opportunities.
+
+My long-term vision is to contribute to the future of:
+
+- 🌍 Smart Water Infrastructure
+- 🌱 Sustainable Agriculture
+- 💧 Global Water Security
+- 🤖 Intelligent Engineering Systems
+- 💻 African Technology Innovation
 
 ---
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/derbewmolla14" width="150" style="border-radius:50%;" />
-</p>
+## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="48%" src="https://streak-stats.demolab.com?user=derbewmolla14&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derbewmolla14&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=derbewmolla14&theme=tokyonight" />
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,js,html,css,mongodb,git,github,vscode" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derbewmolla14&theme=tokyonight" />
-</p>
-<p align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=derbewmolla14&theme=radical&hide_border=true" />
-</p>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
   <a href="mailto:derbewmolla14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/derbewmolla14">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-
-📍 **Location:** Kombolcha, Amhara, Ethiopia
-
----
-
-## 💡 Personal Vision
-
-> *"Using code and engineering innovation to advance sustainable water security for future generations."* 💧💻
+<p align="center">
+  📍 Kombolcha, Amhara, Ethiopia 🇪🇹
+</p>
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐  
-  Feel free to explore my repositories and connect with me.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00C9A7,100:071A2B&height=120&section=footer" />
+</p>
+
+<p align="center">
+  **Building Technology. Engineering Solutions. Creating Impact.**
+  <br/>
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
