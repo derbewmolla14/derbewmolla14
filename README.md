@@ -1,10 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=230&section=header&text=MOLLA%20DERBEW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Hydro-Informatics%20%7C%20Full-Stack%20Development%20%7C%20IoT&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
-
 # 👋 Hi, I'm Molla Derbew
-
-### Hydro-Informatics Engineer | Full-Stack Developer | IoT & Embedded Systems Innovator
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Engineering+Intelligence+for+Water+Security;Building+Smart+IoT+Ecosystems;Full-Stack+Software+Development;Technology+for+Real-World+Impact" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=230&section=header&text=MOLLA%20DERBEW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Hydro-Informatics%20%7C%20Full-Stack%20Development%20%7C%20IoT&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Engineering+Intelligence+for+Water+Security;Building+Smart+IoT+Ecosystems;Full-Stack+Software+Development;Technology+for+Real-World+Impact" alt="Typing SVG" />
@@ -13,6 +16,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=derbewmolla14&label=PROFILE+VIEWS&color=00C9A7&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/derbewmolla14?label=FOLLOWERS&style=for-the-badge&color=0A66C2" />
+</p>
+
+<h3 align="center">
+  Hydro-Informatics Engineer | Full-Stack Developer | IoT & Embedded Systems Innovator
+</h3>
+
+<p align="center">
+  Engineering intelligent solutions for sustainable water management and digital innovation.
 </p>
 
 ---
@@ -169,6 +180,7 @@ Building digital learning experiences and exploring technology-driven education 
 | Communication | Real-Time IoT Integration |
 
 **Core capabilities:**
+
 - Intelligent irrigation management
 - Live water-level monitoring
 - Environmental sensor integration
@@ -205,11 +217,17 @@ Building digital learning experiences and exploring technology-driven education 
 
 ---
 
-## 📊 GitHub Engineering Dashboard
+# 📊 Developer Activity & Engineering Dashboard
 
 <p align="center">
-  <img src="https://github.com/derbewmolla14.png" width="170" alt="Molla Derbew GitHub Profile" />
+  <img src="https://github.com/derbewmolla14.png" width="130" alt="Molla Derbew" />
 </p>
+
+<p align="center">
+  <b>Consistency • Productivity • Engineering • Innovation</b>
+</p>
+
+## 🔥 GitHub Performance Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&custom_title=GitHub%20Performance" width="100%" alt="GitHub Statistics" />
@@ -219,42 +237,82 @@ Building digital learning experiences and exploring technology-driven education 
   <img src="https://streak-stats.demolab.com?user=derbewmolla14&theme=tokyonight&hide_border=true&border_radius=15" width="100%" alt="GitHub Contribution Streak" />
 </p>
 
-### 💻 Language & Development Analytics
+---
+
+## ⏱️ Daily Coding Time & Productivity
+
+**Track my real coding activity, programming languages, and development hours using WakaTime.**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="38%" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derbewmolla14&theme=tokyonight&utcOffset=3" width="58%" alt="Productive Time" />
+  <a href="https://wakatime.com/@derbewmolla14">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime Coding Activity" />
+  </a>
 </p>
 
-### 📈 Contribution Activity
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&bg_color=1a1b27&color=70a5fd&line=00c9a7&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Graph" />
+  <a href="https://wakatime.com">
+    <img src="https://img.shields.io/badge/Powered%20by-WakaTime-00C9A7?style=for-the-badge&logo=wakatime&logoColor=white" />
+  </a>
 </p>
 
-### 🏆 Developer Achievements
+**Coding analytics include:**
+
+- ⏰ Daily coding time
+- 📅 Weekly coding hours
+- 💻 Programming languages
+- 📊 Language usage distribution
+- ⚡ Development productivity
+
+---
+
+## 📅 GitHub Daily Contribution Calendar
+
+**My development consistency and daily contribution history.**
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00C9A7/derbewmolla14" width="100%" alt="GitHub Daily Contributions Calendar" />
+</p>
+
+---
+
+## 📈 Contribution Activity & Development Trends
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&bg_color=1a1b27&color=70a5fd&line=00c9a7&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity" />
+</p>
+
+---
+
+## 💻 Programming Language Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derbewmolla14&theme=tokyonight&utcOffset=3" width="48%" alt="Commit Activity by Time" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Trophies" />
 </p>
 
-### ⚡ Technology Ecosystem
+---
+
+## ⚡ Technology Ecosystem
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,postgres,tailwind,arduino,git,github,vscode,vercel&perline=7" width="100%" alt="Technology Stack" />
 </p>
 
-### 🌊 Engineering & Innovation
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=120&section=footer&text=Engineering%20a%20Smarter%20Future&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" alt="Engineering banner" />
-</p>
+---
 
 ## 🏆 Achievements & Certifications
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</p>
 
 ### 📜 Professional Certification
 
@@ -318,11 +376,11 @@ My long-term vision is to contribute to the future of:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00C9A7,100:071A2B&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00C9A7,100:071A2B&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
   **Building Technology. Engineering Solutions. Creating Impact.**
   <br/>
-  ⭐ Thanks for visiting my GitHub profile!
+  ⭐ Thanks for visiting my profile!
 </p>
