@@ -1,66 +1,81 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=230§ion=header&text=MOLLA%20DERBEW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Hydro-Informatics%20%7C%20Full-Stack%20Development%20%7C%20IoT&descAlignY=60&animation=fadeIn" width="100%" alt="Molla Derbew Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=230&section=header&text=MOLLA%20DERBEW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Hydro-Informatics%20%7C%20Full-Stack%20Development%20%7C%20IoT&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7¢er=true&vCenter=true&width=800&lines=Engineering+Intelligence+for+Water+Security;Building+Smart+IoT+%26+Telemetry+Ecosystems;Full-Stack+Web+%26+Offline-First+Architecture;Bridging+Hydraulic+Engineering+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Engineering+Intelligence+for+Water+Security;Building+Smart+IoT+Ecosystems;Full-Stack+Software+Development;Technology+for+Real-World+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=derbewmolla14&label=PROFILE+VIEWS&color=00C9A7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/derbewmolla14?label=FOLLOWERS&style=for-the-badge&color=0A66C2" alt="Followers" />
-  <a href="https://portfolio-ivory-two-32.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=derbewmolla14&label=PROFILE+VIEWS&color=00C9A7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/derbewmolla14?label=FOLLOWERS&style=for-the-badge&color=0A66C2" />
+</p>
+
+<h3 align="center">
+  Hydro-Informatics Engineer | Full-Stack Developer | IoT & Embedded Systems Innovator
+</h3>
+
+<p align="center">
+  Engineering intelligent solutions for sustainable water management and digital innovation.
 </p>
 
 ---
 
 ## 🌍 About Me
 
-I'm **Molla Derbew**, an engineering student, full-stack software developer, and IoT innovator based in **Kombolcha, Ethiopia 🇪🇹**. I specialize in building intelligent, data-driven systems that bridge **civil/water infrastructure** and **modern software engineering**.
+I'm **Molla Derbew**, an engineering student, software developer, and technology enthusiast from **Ethiopia**, passionate about building intelligent systems that connect engineering, software, and the physical world.
 
-I am currently pursuing a dual academic track at **Wollo University (KIOT)**:
-- 🎓 **B.Sc. in Water Resources & Irrigation Engineering** *(Regular Program)*
-- 💻 **B.Sc. in Software Engineering** *(Extension Program)*
+I'm pursuing a dual academic path at **Wollo University (KIOT)**:
 
-### Core Focus Areas
-- 🌊 **Hydro-Informatics & Hydraulic Modeling:** Smart water distribution, EPANET/GIS workflows, and automated irrigation.
-- 💻 **Full-Stack & Offline-First Systems:** MERN stack, PostgreSQL, Progressive Web Apps (PWAs), and resilient cloud sync.
-- 📡 **IoT & Embedded Telemetry:** Real-time sensor networks (ESP32, ultrasonic, pH, TDS, turbidity) paired with cloud dashboards.
-- 🎓 **Tech Education:** Producing Amharic software engineering tutorials through **Ahadu Tech Academy**.
+- 🎓 **Water Resources & Irrigation Engineering** — Regular
+- 💻 **Software Engineering** — Extension
 
-> *"The future of engineering belongs to those who can connect physical infrastructure, intelligent software, and meaningful community impact."*
+My work focuses on the intersection of:
+
+- 🌊 Water Resources Engineering & Hydro-Informatics
+- 💻 Full-Stack Software Engineering
+- 📡 Internet of Things (IoT) & Embedded Systems
+- 🤖 Intelligent Monitoring & Automation
+- 📊 Real-Time Data Processing & Visualization
+
+**My mission:** Transform traditional engineering systems into intelligent, connected, and data-driven solutions through modern software and emerging technologies.
 
 ---
 
-## 🏗️ Featured Engineering & Software Ecosystem
+## 🚀 What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 HydroOS — Smart Water Telemetry
-**Integrated Water Resource & Irrigation Ecosystem**
+### 🌊 HydroOS
 
-A full-stack IoT platform connecting field hardware sensors to a centralized analytics dashboard for real-time water level and quality monitoring.
-- **Tech:** `React` `Vite` `Tailwind` `Node.js` `MongoDB` `ESP32`
-- **Features:** Live telemetry, automated threshold alerts, irrigation scheduling, and resource analytics.
-- 🔗 **[Explore Repository →](https://github.com/Molla-Derbew/HydroOS)**
+**Smart Water Management Ecosystem**
+
+Developing an integrated platform for intelligent water resource management and smart irrigation.
+
+- Smart irrigation management
+- Real-time water monitoring
+- IoT sensor integration
+- Water quality indicators
+- Analytics and visualization
+- Automated alerts
 
 </td>
 <td width="50%" valign="top">
 
 ### 💧 Smart Water Monitor
-**Cloud-Connected Level Visualization System**
 
-A real-time monitoring web application engineered to ingest, process, and visualize sensor-based water-level data streams.
-- **Tech:** `JavaScript` `REST API` `Cloud Deployment` `IoT Sensors`
-- **Features:** Live tank/reservoir tracking, API telemetry ingestion, and responsive dashboard UI.
-- 🌐 **[Live App](https://smart-water-monitor-7kui.onrender.com)** • 💻 **[Source Code](https://github.com/Molla-Derbew/Smart-Water-Monitor)**
+**IoT-Based Water Monitoring**
+
+A connected monitoring system designed to visualize water-level measurements through a web application.
+
+- Sensor-based measurement
+- Real-time data visualization
+- Backend API integration
+- Cloud deployment
+- Water-level monitoring
 
 </td>
 </tr>
@@ -68,21 +83,30 @@ A real-time monitoring web application engineered to ingest, process, and visual
 <td width="50%" valign="top">
 
 ### 🧪 Automated Water Quality System
-**Environmental Sensor & Compliance Monitoring**
 
-Sensor-driven hardware and software pipeline designed to track water safety indicators in real time.
-- **Parameters:** `pH` • `TDS (Total Dissolved Solids)` • `Turbidity`
-- **Features:** Automated anomaly detection, historical logging, and safe-water compliance alerts.
+**Environmental Monitoring & Automation**
+
+Exploring sensor-based approaches to monitoring water quality parameters.
+
+- pH monitoring
+- TDS measurements
+- Turbidity monitoring
+- Sensor integration
+- Monitoring dashboards
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Ahadu Tech Academy
-**Digital Education & Developer Platform**
 
-An educational initiative and web platform dedicated to making programming and modern software development accessible in Amharic.
-- **Focus:** Web development tutorials, structured learning paths, and practical coding projects.
-- 🌐 **[Visit Platform →](https://ahadu-tech-academys.vercel.app/)**
+**Digital Learning & Technology**
+
+Building digital learning experiences and exploring technology-driven education solutions.
+
+- Web-based learning platforms
+- Full-stack development
+- Digital education
+- Software innovation
 
 </td>
 </tr>
@@ -90,105 +114,297 @@ An educational initiative and web platform dedicated to making programming and m
 
 ---
 
-## 🛠️ Technical Stack & Engineering Tools
+## 🧠 Technical Skills & Technologies
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **IoT & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) `Ultrasonic & Water Quality Sensors` `Relays` |
-| **Engineering & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) `EPANET` `AutoCAD` `GIS` |
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css" />
+</p>
+
+### Frontend Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### Backend & Database Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+### IoT & Embedded Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  <img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+### Development Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
+
+### Engineering & Technology Interests
+
+- Hydro-Informatics
+- Smart Irrigation Systems
+- Water Resources Management
+- IoT-Based Environmental Monitoring
+- System Architecture & API Design
+- Data Analytics & Visualization
+- AI-Assisted Software Development
 
 ---
 
-## 📊 Developer Activity & Analytics Dashboard
+## 🏗️ Featured Projects
 
-### 🔥 GitHub Performance & Streaks
+### 01. 🌊 HydroOS — Smart Water Management
+
+**An integrated technology ecosystem for water resources and irrigation management.**
+
+| Component | Technology |
+|---|---|
+| Frontend | React, Vite, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Hardware | ESP32 & Sensors |
+| Communication | Real-Time IoT Integration |
+
+**Core capabilities:**
+
+- Intelligent irrigation management
+- Live water-level monitoring
+- Environmental sensor integration
+- Water resource analytics
+- Centralized management dashboard
+
+🔗 **Repository:** [HydroOS](https://github.com/Molla-Derbew/HydroOS)
+
+---
+
+### 02. 💧 Smart Water Monitor
+
+**A full-stack application for monitoring water levels using sensor-based measurements.**
+
+- Real-time water-level visualization
+- Backend API communication
+- Web-based monitoring dashboard
+- Cloud deployment
+
+🌐 **Live Application:** [Open Smart Water Monitor](https://smart-water-monitor-7kui.onrender.com)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/Molla-Derbew/Smart-Water-Monitor)
+
+---
+
+### 03. 🧪 Automated Water Quality Monitoring
+
+**An IoT-focused project exploring connected water quality monitoring.**
+
+- pH sensor integration
+- TDS monitoring
+- Turbidity measurement
+- Automated monitoring and alerts
+
+---
+
+# 📊 Developer Activity & Engineering Dashboard
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=derbewmolla14&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="GitHub Streak" />
+  <img src="https://github.com/derbewmolla14.png" width="130" alt="Molla Derbew" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derbewmolla14&theme=tokyonight&utcOffset=3" width="49%" alt="Productive Time (EAT UTC+3)" />
+  <b>Consistency • Productivity • Engineering • Innovation</b>
+</p>
+
+## 🔥 GitHub Performance Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&custom_title=GitHub%20Performance" width="100%" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=derbewmolla14&theme=tokyonight&hide_border=true&border_radius=15" width="100%" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-### ⏱️ WakaTime Coding Activity
-> *Live coding metrics tracked directly from VS Code (ensure "Display code time publicly" is enabled in your WakaTime profile settings).*
+## ⏱️ Daily Coding Time & Productivity
+
+**Track my real coding activity, programming languages, and development hours using WakaTime.**
 
 <p align="center">
-  <a href="https://wakatime.com/@derbewmolla14">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="65%" alt="Molla Derbew WakaTime Stats" />
-  </a>
+  <a href="https://wakatime.com/@derbewmolla14">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime Coding Activity" />
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
----
+<!-- <p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://img.shields.io/badge/Powered%20by-WakaTime-00C9A7?style=for-the-badge&logo=wakatime&logoColor=white" />
+  </a>
+</p> -->
 
-### 📅 Contribution History (Select Year)
-
+**Coding analytics include:**
 <p align="center">
-  <img src="https://ghchart.rshah.org/00C9A7/derbewmolla14" width="100%" alt="Rolling 365-Day Contribution Heatmap" />
+  <img
+    src="YOUR_WAKATIME_CHART_URL"
+    width="100%"
+    alt="My WakaTime Coding Activity Graph"
+  />
 </p>
-
-<details open>
-  <summary><b>📆 2026 Contribution Activity Graph (Current Year)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2026-01-01&to=2026-12-31&custom_title=2026%20Contribution%20Activity" width="100%" alt="2026 Activity Graph" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📆 2025 Contribution Activity Graph (Last Year — Click to View)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2025-01-01&to=2025-12-31&custom_title=2025%20Contribution%20Activity" width="100%" alt="2025 Activity Graph" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📆 2024 Contribution Activity Graph (Click to View)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true&from=2024-01-01&to=2024-12-31&custom_title=2024%20Contribution%20Activity" width="100%" alt="2024 Activity Graph" />
-  </p>
-</details>
+- ⏰ Daily coding time
+- 📅 Weekly coding hours
+- 💻 Programming languages
+- 📊 Language usage distribution
+- ⚡ Development productivity
 
 ---
 
-## 🏆 Honors, Certifications & Achievements
+## 📅 GitHub Daily Contribution Calendar
 
-- 📜 **Household Water Treatment and Safe Storage (HWTS)** — *Certified by CAWST (Centre for Affordable Water and Sanitation Technology), Canada*
-- 🤖 **Sportsmanship Award** — *4th Pan-African Robotics Technology Innovation Championship (Wollo University AI Club Team)*
-- 🧠 **AI Fundamentals Certification (95%)** — *Global Chapters – Ethiopia (Udacity)*
+**My development consistency and daily contribution history.**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="https://ghchart.rshah.org/00C9A7/derbewmolla14" width="100%" alt="GitHub Daily Contributions Calendar" />
 </p>
 
 ---
 
-## 📫 Connect & Collaborate
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <a href="mailto:derbewmolla14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-derbewmolla14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-molla--hydro--os--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-ivory-two-32.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://github.com/derbewmolla14">
+    <img src="https://img.shields.io/badge/GitHub-View_My_Contribution_History-00C9A7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00C9A7,100:071A2B&height=110§ion=footer" width="100%" alt="Footer Banner" />
+  Explore my daily contributions, commits, pull requests, and development activity directly on my GitHub profile.
+</p>
+
+
+---
+
+
+## 💻 Programming Language Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="90%"
+    alt="Most Used Programming Languages"
+  />
+</p>
+---
+
+
+## 📊 Development Activity Graph
+
+<p align="center">
+  <a href="https://github.com/derbewmolla14">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="GitHub Development Activity Graph"
+    />
+  </a>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ⚡ Technology Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,postgres,tailwind,arduino,git,github,vscode,vercel&perline=7" width="100%" alt="Technology Stack" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+### 📜 Professional Certification
+
+**Household Water Treatment and Safe Storage (HWTS)**
+
+- Certified by CAWST, Canada
+- Focus: Household water treatment and safe water storage
+
+---
+
+## 🌐 Portfolio & Professional Presence
+
+<p align="center">
+  <a href="https://portfolio-ivory-two-32.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://ahadu-tech-academys.vercel.app/">
+    <img src="https://img.shields.io/badge/Ahadu_Tech_Academy-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎯 My Engineering Philosophy
+
+> "The future of engineering belongs to those who can connect physical systems, intelligent software, and meaningful innovation."
+
+I believe technology should go beyond writing code. It should solve real problems, improve infrastructure, empower communities, and create sustainable opportunities.
+
+My long-term vision is to contribute to the future of:
+
+- 🌍 Smart Water Infrastructure
+- 🌱 Sustainable Agriculture
+- 💧 Global Water Security
+- 🤖 Intelligent Engineering Systems
+- 💻 African Technology Innovation
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:derbewmolla14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/molla-hydro-os-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/derbewmolla14">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Kombolcha, Amhara, Ethiopia 🇪🇹
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00C9A7,100:071A2B&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  **Building Technology. Engineering Solutions. Creating Impact.**
+  <br/>
+  ⭐ Thanks for visiting my profile!
 </p>
