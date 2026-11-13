@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=230&section=header&text=MOLLA%20DERBEW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Hydro-Informatics%20%7C%20Full-Stack%20Development%20%7C%20IoT&descAlignY=60&animation=fadeIn" width="100%" />
-</p>
-# 👋 Hi, I'm Molla Derbew
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Engineering+Intelligence+for+Water+Security;Building+Smart+IoT+Ecosystems;Full-Stack+Software+Development;Technology+for+Real-World+Impact" alt="Typing SVG" />
 </p>
