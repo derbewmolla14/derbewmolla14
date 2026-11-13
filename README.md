@@ -276,7 +276,6 @@ Building digital learning experiences and exploring technology-driven education 
 </p>
 
 ---
-## 📅 Contribution History by Year
 
 ## 📅 Contribution Calendar by Year
 
@@ -309,6 +308,7 @@ Building digital learning experiences and exploring technology-driven education 
   </p>
 
 </details>
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -323,29 +323,27 @@ Building digital learning experiences and exploring technology-driven education 
 
 
 ---
+
 ## 💻 Programming Language Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="90%" alt="Most Used Programming Languages" />
-</p>
+Explore my programming languages and development repositories:
+
+[View My Language Statistics](https://github.com/derbewmolla14?tab=repositories)
 
 ---
 
-## 📊 Development Activity Graph
+## 📊 Development Activity
 
-<p align="center">
-  <a href="https://github.com/derbewmolla14">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Development Activity Graph" />
-  </a>
-</p>
+[Explore My GitHub Contribution History](https://github.com/derbewmolla14)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Trophies" />
-</p>
+[View My GitHub Profile & Achievements](https://github.com/derbewmolla14?tab=achievements)
+
+---
+
 
 ## ⚡ Technology Ecosystem
 
