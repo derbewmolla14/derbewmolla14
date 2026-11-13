@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=230&section=header&text=MOLLA%20DERBEW&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Hydro-Informatics%20%7C%20Full-Stack%20Development%20%7C%20IoT&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
+
 # 👋 Hi, I'm Molla Derbew
 
 ### Hydro-Informatics Engineer | Full-Stack Developer | IoT & Embedded Systems Innovator
