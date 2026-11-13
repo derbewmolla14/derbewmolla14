@@ -201,23 +201,50 @@ Building digital learning experiences and exploring technology-driven education 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Engineering Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=derbewmolla14&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/derbewmolla14.png" width="170" alt="Molla Derbew GitHub Profile" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=derbewmolla14&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&custom_title=GitHub%20Performance" width="100%" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derbewmolla14&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=derbewmolla14&theme=tokyonight&hide_border=true&border_radius=15" width="100%" alt="GitHub Contribution Streak" />
 </p>
 
----
+### 💻 Language & Development Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derbewmolla14&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="38%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=derbewmolla14&theme=tokyonight&utcOffset=3" width="58%" alt="Productive Time" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derbewmolla14&bg_color=1a1b27&color=70a5fd&line=00c9a7&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Graph" />
+</p>
+
+### 🏆 Developer Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=derbewmolla14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Trophies" />
+</p>
+
+### ⚡ Technology Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,postgres,tailwind,arduino,git,github,vscode,vercel&perline=7" width="100%" alt="Technology Stack" />
+</p>
+
+### 🌊 Engineering & Innovation
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00C9A7&height=120&section=footer&text=Engineering%20a%20Smarter%20Future&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" alt="Engineering banner" />
+</p>
 
 ## 🏆 Achievements & Certifications
 
